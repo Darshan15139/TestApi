@@ -1,8 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "products": [
+    { "id": 1, "title": "Dell Inspiron 3891 Desktop", "Description": "Amazing product", "price": "Rs. 999.99", "Image1": "https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/desktops/inspiron_desktops/inspiron_3891/pdp/in-dhs-hero-image-570x400.jpg?fmt=pjpg&pscan=auto&scl=1&hei=402&wid=573&qlt=100,0&resMode=sharp2&size=573,402", "Image2": "https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/desktops/optiplex_desktops/optiplex_3080/media_gallery/desktop_optiplex_3080_mt-sff_gallery_1.psd?fmt=pjpg&pscan=auto&scl=1&hei=402&wid=392&qlt=100,0&resMode=sharp2&size=392,402" },
+    { "id": 2, "title": "OptiPlex 3080 Tower", "Description": "Amazing product", "price": "Rs. 999.99", "Image1": "https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/desktops/inspiron_desktops/inspiron_3891/pdp/in-dhs-hero-image-570x400.jpg?fmt=pjpg&pscan=auto&scl=1&hei=402&wid=573&qlt=100,0&resMode=sharp2&size=573,402", "Image2": "https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/desktops/optiplex_desktops/optiplex_3080/media_gallery/desktop_optiplex_3080_mt-sff_gallery_1.psd?fmt=pjpg&pscan=auto&scl=1&hei=402&wid=392&qlt=100,0&resMode=sharp2&size=392,402" },
+    { "id": 3, "title": "Post 1", "OptiPlex 3080 Tower": "Amazing product", "price": "Rs. 999.99", "Image1": "https://www.apple.com/v/macbook-pro-13/h/images/overview/macbook_pro_13__qpw44nw5sxmy_large.jpg", "Image2": "https://www.apple.com/in/macbook-pro-13/images/overview/camera_hero_screen__tgpl9q3xy1ei_large.png" },
+    
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
